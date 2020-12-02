@@ -1,6 +1,6 @@
 # Projet Chat RMI
 
-NB : Dans ce document je n’expliquerai que la version du programme avec les callbacks, cependant la version « normale » est disponible sur Github
+NB : Dans ce document je n’expliquerai que la version du programme avec les callbacks (**branche version-callback**), cependant la version « normale » est disponible sur le master.
 
 ## Description Générale
 
